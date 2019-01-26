@@ -1,1 +1,1 @@
-AnimSmooth
+AnimSmooth: custom Maya Plugin
